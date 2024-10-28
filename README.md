@@ -1,1 +1,1 @@
-https://github.com/DmrGbv/posmotri
+https://github.com/DmrGbv/posmotri_v_okno
